@@ -1,0 +1,12 @@
+I don't want || hoshiku arimasen
+now || ima || 2
+yes (casual) || ee || 3
+at my place || watashi no tokoro de
+at your place || anata no tokoro de
+you are skilled || jozu desu
+I am not skilled. || Jozu ja arimasen. || 0
+Computer Programming Class || CIT 591
+Computer Architecture Class || CIT 593
+Discrete Mathematics Class || CIT 592
+
+
