@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import simpleIO.SimpleIO;
 
 /**
- * @author Joo-nam Kim & Ted Fujimoto
+ * @author Joo-nam Kim
  */
 public class StudyList {
 	

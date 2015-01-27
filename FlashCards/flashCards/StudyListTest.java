@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * @author Joo-nam Kim & Ted Fujimoto
+ * @author Joo-nam Kim
  */
 public class StudyListTest {
 

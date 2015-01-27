@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author Joo-nam Kim & Ted Fujimoto
+ * @author Joo-nam Kim
  */
 public class ItemTest {
 
