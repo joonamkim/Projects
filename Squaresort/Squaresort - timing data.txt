@@ -1,0 +1,110 @@
+####Timing data####
+
+##linearSort(int[] )
+
+took 0.037472 seconds for 10000 numbers
+took 0.036362 seconds for 10000 numbers
+took 0.035592 seconds for 10000 numbers
+took 0.039529 seconds for 10000 numbers
+took 0.031192 seconds for 10000 numbers
+
+took 2.942909 seconds for 100000 numbers
+took 2.962925 seconds for 100000 numbers
+took 3.005606 seconds for 100000 numbers
+took 3.03644 seconds for 100000 numbers
+took 2.474394 seconds for 100000 numbers
+
+took 246.632105 seconds for 1000000 numbers
+took 246.911168 seconds for 1000000 numbers
+
+##LINEARSORT(Person[], Comp)# NameComparator
+
+took 0.192322 seconds for 1000 numbers
+took 0.208565 seconds for 1000 numbers
+took 0.209698 seconds for 1000 numbers
+
+took 13.318045 seconds for 10000 numbers
+took 11.989744 seconds for 10000 numbers
+took 13.380089 seconds for 10000 numbers
+
+##PayGradeComparator
+
+took 0.009022 seconds for 1000 numbers
+took 0.00858 seconds for 1000 numbers
+took 0.009213 seconds for 1000 numbers
+took 0.008682 seconds for 1000 numbers
+took 0.008398 seconds for 1000 numbers
+
+took 0.172541 seconds for 10000 numbers
+took 0.168023 seconds for 10000 numbers
+took 0.166303 seconds for 10000 numbers
+took 0.175535 seconds for 10000 numbers
+took 0.172081 seconds for 10000 numbers
+
+took 23.997559 seconds for 100000 numbers
+took 26.325636 seconds for 100000 numbers
+took 26.289541 seconds for 100000 numbers
+took 22.226553 seconds for 100000 numbers
+took 22.385752 seconds for 100000 numbers
+
+##EmployeeIdComparator
+took 0.008616 seconds for 1000 numbers
+took 0.008535 seconds for 1000 numbers
+took 0.008462 seconds for 1000 numbers
+took 0.008669 seconds for 1000 numbers
+took 0.00827 seconds for 1000 numbers
+
+took 0.115359 seconds for 10000 numbers
+took 0.140822 seconds for 10000 numbers
+took 0.121454 seconds for 10000 numbers
+took 0.098873 seconds for 10000 numbers
+took 0.098321 seconds for 10000 numbers
+took 0.097961 seconds for 10000 numbers
+took 0.118789 seconds for 10000 numbers
+
+took 14.666737 seconds for 100000 numbers
+took 14.888277 seconds for 100000 numbers
+took 14.420823 seconds for 100000 numbers
+took 14.477994 seconds for 100000 numbers
+
+## 2D Array NameComparator
+took 0.60497 seconds for 100 rows and 100 columns
+took 0.57905 seconds for 100 rows and 100 columns
+took 0.495165 seconds for 100 rows and 100 columns
+took 0.629374 seconds for 100 rows and 100 columns
+
+took 0.884221 seconds for 150 rows and 100 columns
+took 0.81635 seconds for 150 rows and 100 columns
+took 0.90732 seconds for 150 rows and 100 columns
+took 0.889351 seconds for 150 rows and 100 columns
+
+took 1.200638 seconds for 100 rows and 150 columns
+took 1.338211 seconds for 100 rows and 150 columns
+took 1.321228 seconds for 100 rows and 150 columns
+took 1.327802 seconds for 100 rows and 150 columns
+took 1.276522 seconds for 100 rows and 150 columns
+
+took 62.458171 seconds for 500 rows and 500 columns
+
+took 488.735369 seconds for 1000 rows and 1000 columns
+
+## 2D array PayGradeComparator
+
+took 0.019355 seconds for 100 rows and 100 columns
+took 0.019009 seconds for 100 rows and 100 columns
+took 0.018741 seconds for 100 rows and 100 columns
+
+took 12.615465 seconds for 1000 rows and 500 columns
+took 11.234994 seconds for 1000 rows and 500 columns
+
+took 5.118215 seconds for 500 rows and 1000 columns
+took 4.751354 seconds for 500 rows and 1000 columns
+took 4.789372 seconds for 500 rows and 1000 columns
+
+took 27.6776 seconds for 1000 rows and 1000 columns
+
+
+
+
+
+
